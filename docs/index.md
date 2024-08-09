@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "隐秘角落"
-  tagline: 一本等待被有缘人翻开的日记
+  tagline: 一本期待被有缘人翻开的上不了厅堂的荒诞日记
   actions:
     - theme: brand
       text: 笃定进入
